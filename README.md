@@ -1,74 +1,57 @@
 <h1 align="center">Hi 👋, I'm Deepa K R</h1>
-<h3 align="center">💻 BCA Student | Flutter Developer | Frontend Developer | Python Enthusiast | Lifelong Learner 🚀</h3>
+<h3 align="center">💻 BCA Student | Flutter Developer | Frontend Developer | Python Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Deepa1404&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-- 🎓 I'm a **BCA Student**
+- 🎓 BCA Student
 - 🌱 Currently learning **Git & GitHub**
-- 💻 Learning **Python, Java, Dart, Flutter, FastAPI, HTML, CSS, JavaScript, and C**
+- 💻 Learning **Python, Java, Dart, Flutter, HTML, CSS, JavaScript, C & FastAPI**
 - 📱 Interested in **Flutter App Development**
 - 🎨 Interested in **Frontend Web Development**
-- 🚀 Building projects to improve my programming skills
-- 🔭 Currently working on a **Student Management System**
+- 🚀 Currently building a **Student Management System**
 - 📚 Learning Data Structures & Algorithms
-- 🎥 I create programming content on YouTube
+- 🎥 Programming YouTuber
 - 🎯 Goal: Become a Professional Full Stack & Mobile App Developer
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/deepa-k-r-b46946387" target="_blank">
+<a href="https://www.linkedin.com/in/deepa-k-r-b46946387">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@sinchuiyer_k" target="_blank">
+<a href="https://www.youtube.com/@sinchuiyer_k">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/sinchu_iyer" target="_blank">
+<a href="https://instagram.com/sinchu_iyer">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/Sinchu_iyer" target="_blank">
+<a href="https://facebook.com/Sinchu_iyer">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://x.com/sinchu_iyer" target="_blank">
+<a href="https://x.com/sinchu_iyer">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-# 💻 Tech Stack
+# 💻 Languages & Tools
 
-<p align="left">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,java,dart,flutter"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,python,java,dart,flutter,c,html,css,js,fastapi"/>
 
 </p>
 
@@ -78,9 +61,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepa1404&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa1404&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,7 +73,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Deepa1404&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,56 +83,55 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Deepa1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepa1404&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-## 🚀 Currently Learning
+# 🚀 Currently Learning
 
 - Git & GitHub
 - Flutter
 - Dart
 - FastAPI
-- Java
 - Python
+- Java
 - HTML
 - CSS
 - JavaScript
+- C
 - Data Structures & Algorithms
 
 ---
 
-## 💡 Interests
+# 💡 Interests
 
 - 📱 Mobile App Development
 - 🎨 Frontend Development
-- ⚡ Backend APIs
-- 🌐 Open Source
-- 🤖 AI & Automation
-- ☁️ Cloud Technologies
+- ⚡ Backend Development
+- 🌍 Open Source
+- 🤖 Artificial Intelligence
 
 ---
 
-## 📌 Featured Project
+# 📌 Current Project
 
-### 🎓 Student Management System
+## 🎓 Student Management System
 
-A complete student management application featuring:
-
+Features:
 - Student Registration
-- Attendance
+- Attendance Management
 - Marks Management
 - Authentication
 - Dashboard
@@ -157,16 +139,12 @@ A complete student management application featuring:
 
 ---
 
-## ✨ Quote
+# ✨ Quote
 
-> **"Success doesn't come from what you know. It comes from what you consistently build." 🚀**
+> **"Keep Learning • Keep Building • Keep Growing 🚀"**
 
 ---
 
 <p align="center">
-
-### Thanks for visiting my profile ❤️
-
-⭐ Don't forget to star my repositories if you like them!
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
