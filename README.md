@@ -1,150 +1,64 @@
-<h1 align="center">Hi 👋, I'm Deepa K R</h1>
-<h3 align="center">💻 BCA Student | Flutter Developer | Frontend Developer | Python Enthusiast 🚀</h3>
+# 👋 Hi, I'm Deepa K R
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepa1404&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+💻 **BCA Student** | 🐍 Python Developer | 🌐 Full-Stack Developer | 🎥 YouTuber
 
----
+I am passionate about building real-world applications and continuously improving my programming skills.
 
-# 💫 About Me
-
-- 🎓 BCA Student
-- 🌱 Currently learning **Git & GitHub**
-- 💻 Learning **Python, Java, Dart, Flutter, HTML, CSS, JavaScript, C & FastAPI**
-- 📱 Interested in **Flutter App Development**
-- 🎨 Interested in **Frontend Web Development**
-- 🚀 Currently building a **Student Management System**
-- 📚 Learning Data Structures & Algorithms
-- 🎥 Programming YouTuber
-- 🎯 Goal: Become a Professional Full Stack & Mobile App Developer
+- 🔭 Currently working on **Student Management System**
+- 🌱 Learning **Django, FastAPI, Java, Cloud Computing**
+- 💡 Interested in **Full-Stack Development & Open Source**
+- 🎯 Goal: Become a Professional Software Developer
+- 📫 Reach me: **deepa14@gmail.com**
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/deepa-k-r-b46946387">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@sinchuiyer_k">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/sinchu_iyer">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/Sinchu_iyer">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://x.com/sinchu_iyer">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepa-k-r-b46946387)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sinchuiyer_k)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sinchu_iyer)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Sinchu_iyer)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sinchu_iyer)
 
 ---
 
-# 💻 Languages & Tools
+# 💻 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,python,java,dart,flutter,c,html,css,js,fastapi"/>
-
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=Deepa1404&theme=tokyonight&show_icons=true&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepa1404&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://streak-stats.demolab.com?user=Deepa1404&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa1404&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Deepa1404&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa1404&theme=tokyonight&layout=compact&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepa1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-
-</p>
+![](https://github-profile-trophy.vercel.app/?username=Deepa1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
 
 ---
 
-# 📈 GitHub Contribution Graph
+### ✍️ Quote
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepa1404&theme=tokyo-night"/>
-
-</p>
+> *"Code. Learn. Build. Repeat."* 🚀
 
 ---
 
-# 🚀 Currently Learning
-
-- Git & GitHub
-- Flutter
-- Dart
-- FastAPI
-- Python
-- Java
-- HTML
-- CSS
-- JavaScript
-- C
-- Data Structures & Algorithms
-
----
-
-# 💡 Interests
-
-- 📱 Mobile App Development
-- 🎨 Frontend Development
-- ⚡ Backend Development
-- 🌍 Open Source
-- 🤖 Artificial Intelligence
-
----
-
-# 📌 Current Project
-
-## 🎓 Student Management System
-
-Features:
-- Student Registration
-- Attendance Management
-- Marks Management
-- Authentication
-- Dashboard
-- Database Integration
-
----
-
-# ✨ Quote
-
-> **"Keep Learning • Keep Building • Keep Growing 🚀"**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+![](https://komarev.com/ghpvc/?username=Deepa1404&style=for-the-badge&color=blue)
