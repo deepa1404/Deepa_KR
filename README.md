@@ -4,9 +4,9 @@
 
 I am passionate about building real-world applications and continuously improving my programming skills.
 
-- 🔭 Currently working on **Student Management System**
-- 🌱 Learning **Django, FastAPI, Java, Cloud Computing**
-- 💡 Interested in **Full-Stack Development & Open Source**
+- 🔭 Currently working on **Quiz application**
+- 🌱 Learning **dart, FastAPI, Java, Flutter**
+- 💡 Interested in **Full-Stack Development & Open Source & flutter app development**
 - 🎯 Goal: Become a Professional Software Developer
 - 📫 Reach me: **deepa14@gmail.com**
 
@@ -16,11 +16,7 @@ I am passionate about building real-world applications and continuously improvin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepa-k-r-b46946387)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sinchuiyer_k)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sinchu_iyer)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Sinchu_iyer)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sinchu_iyer)
 
----
 
 # 💻 Tech Stack
 
@@ -33,25 +29,21 @@ I am passionate about building real-world applications and continuously improvin
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepa1404&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api?username=Deepa1404&theme=tokyonight&show_icons=true&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=Deepa1404&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa1404&theme=tokyonight&layout=compact&hide_border=true)
-
----
 
 # 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Deepa1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Deepa1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
 
 ---
 
