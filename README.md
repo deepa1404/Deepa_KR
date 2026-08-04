@@ -50,9 +50,14 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+
+
 
 </p>
 
@@ -60,45 +65,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<h3 align="left">GitHub Stats:</h3>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepa1404&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepa1404&show_icons=true&locale=en" alt="deepa1404" /></p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepa1404&layout=compact&theme=tokyonight&hide_border=true"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepa1404&" alt="deepa1404" /></p>
 
-</p>
+<h3 align="left">Languages and Tools:</h3>
 
----
 
-## 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Deepa1404&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepa1404&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepa1404&theme=tokyo-night"/>
-
-</p>
-
----
 
 ## 🚀 Current Focus
 
@@ -113,7 +89,7 @@
 
 ## ✨ Quote
 
-> **"Code. Learn. Build. Repeat." 🚀**
+> **> 📚 "Never stop learning because technology never stops evolving." 🚀**
 
 ---
 
